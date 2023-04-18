@@ -1,0 +1,3 @@
+_target_: src.models.bayesian_mlps.BayesianMLP
+beta: 1.0
+output_noise_scale: 0.05

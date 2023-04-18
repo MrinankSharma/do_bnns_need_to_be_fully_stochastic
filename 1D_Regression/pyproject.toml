@@ -1,0 +1,35 @@
+[tool.poetry]
+name = "targetteduncertainty"
+version = "0.1.0"
+description = ""
+authors = ["Anon"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+black = "^21.10b0"
+pytorch-lightning = "^1.5.1"
+jupyterlab = "^3.2.2"
+seaborn = "^0.11.2"
+sklearn = "^0.0"
+lightning-bolts = "^0.4.0"
+wandb = "^0.12.7"
+hydra-core = "^1.1.1"
+python-dotenv = "^0.19.2"
+pudb = "^2022.1"
+rich = "^11.1.0"
+isort = "^5.10.1"
+hydra-colorlog = "^1.1.0"
+plotly = "^5.5.0"
+openpyxl = "^3.0.9"
+xlrd = "^2.0.1"
+torchvision = "^0.11.3"
+numpyro = "^0.9.0"
+ipywidgets = "^7.6.5"
+gsutil = "^5.8"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

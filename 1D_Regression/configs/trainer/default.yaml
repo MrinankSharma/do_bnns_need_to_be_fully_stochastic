@@ -1,0 +1,19 @@
+defaults:
+  - profiler: null
+
+_target_: pytorch_lightning.Trainer
+
+# GPUs
+gpus: 1
+auto_select_gpus: True
+
+min_epochs: 1500
+max_epochs: 1500
+resume_from_checkpoint: null
+
+# number of validation steps to execute at the beginning of the training
+num_sanity_val_steps: 0
+
+# logging frequency
+check_val_every_n_epoch: 500
+log_every_n_steps: 50

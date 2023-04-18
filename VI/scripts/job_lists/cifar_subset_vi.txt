@@ -1,0 +1,13 @@
+baselines/cifar/partially_stochastic_variational_inference.py --num_cores=4 --use_gpu=True --data_dir=$BASE_DATA_DIR/tensorflow_datasets --output_dir=$BASE_DATA_DIR/subset_vi/1 --stochastic_layer_code=1
+baselines/cifar/partially_stochastic_variational_inference.py --num_cores=4 --use_gpu=True --data_dir=$BASE_DATA_DIR/tensorflow_datasets --output_dir=$BASE_DATA_DIR/subset_vi/3 --stochastic_layer_code=3
+baselines/cifar/partially_stochastic_variational_inference.py --num_cores=4 --use_gpu=True --data_dir=$BASE_DATA_DIR/tensorflow_datasets --output_dir=$BASE_DATA_DIR/subset_vi/15 --stochastic_layer_code=15
+baselines/cifar/partially_stochastic_variational_inference.py --num_cores=4 --use_gpu=True --data_dir=$BASE_DATA_DIR/tensorflow_datasets --output_dir=$BASE_DATA_DIR/subset_vi/127 --stochastic_layer_code=127
+baselines/cifar/partially_stochastic_variational_inference.py --num_cores=4 --use_gpu=True --data_dir=$BASE_DATA_DIR/tensorflow_datasets --output_dir=$BASE_DATA_DIR/subset_vi/192 --stochastic_layer_code=192
+baselines/cifar/partially_stochastic_variational_inference.py --num_cores=4 --use_gpu=True --data_dir=$BASE_DATA_DIR/tensorflow_datasets --output_dir=$BASE_DATA_DIR/subset_vi/288 --stochastic_layer_code=288
+baselines/cifar/partially_stochastic_variational_inference.py --num_cores=4 --use_gpu=True --data_dir=$BASE_DATA_DIR/tensorflow_datasets --output_dir=$BASE_DATA_DIR/subset_vi/1023 --stochastic_layer_code=1023
+baselines/cifar/partially_stochastic_variational_inference.py --num_cores=4 --use_gpu=True --data_dir=$BASE_DATA_DIR/tensorflow_datasets --output_dir=$BASE_DATA_DIR/subset_vi/8191 --stochastic_layer_code=8191
+baselines/cifar/partially_stochastic_variational_inference.py --num_cores=4 --use_gpu=True --data_dir=$BASE_DATA_DIR/tensorflow_datasets --output_dir=$BASE_DATA_DIR/subset_vi/8192 --stochastic_layer_code=8192
+baselines/cifar/partially_stochastic_variational_inference.py --num_cores=4 --use_gpu=True --data_dir=$BASE_DATA_DIR/tensorflow_datasets --output_dir=$BASE_DATA_DIR/subset_vi/8385 --stochastic_layer_code=8385
+baselines/cifar/partially_stochastic_variational_inference.py --num_cores=4 --use_gpu=True --data_dir=$BASE_DATA_DIR/tensorflow_datasets --output_dir=$BASE_DATA_DIR/subset_vi/8481 --stochastic_layer_code=8481
+baselines/cifar/partially_stochastic_variational_inference.py --num_cores=4 --use_gpu=True --data_dir=$BASE_DATA_DIR/tensorflow_datasets --output_dir=$BASE_DATA_DIR/subset_vi/12288 --stochastic_layer_code=12288
+baselines/cifar/partially_stochastic_variational_inference.py --num_cores=4 --use_gpu=True --data_dir=$BASE_DATA_DIR/tensorflow_datasets --output_dir=$BASE_DATA_DIR/subset_vi/16383 --stochastic_layer_code=16383

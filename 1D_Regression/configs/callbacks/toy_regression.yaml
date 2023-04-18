@@ -1,0 +1,7 @@
+defaults:
+  - regression.yaml
+
+log_toy_regression_predictions:
+  _target_: src.callbacks.wandb_callbacks.LogToyRegressionPredictions
+  n_grid: 300
+  n_mc: 100

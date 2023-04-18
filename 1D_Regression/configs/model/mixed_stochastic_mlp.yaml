@@ -1,0 +1,4 @@
+_target_: src.models.bayesian_mlps.MixedStochasticMLP
+beta: 1.0
+output_noise_scale: 0.05
+stochastic_layer_code: 6
