@@ -1,4 +1,3 @@
-# NeurIPS 2022
 This codebase is a fork of the excellent Laplace repo. The additional code that was added is in the following files/directories:
 ```angular2html
 ### Library
@@ -197,7 +196,7 @@ This package relies on various improvements to the Laplace approximation for neu
 - [3] Snoek, J., Rippel, O., Swersky, K., Kiros, R., Satish, N., Sundaram, N., Patwary, M., Prabhat, M., Adams, R. [*Scalable Bayesian Optimization Using Deep Neural Networks*](https://arxiv.org/abs/1502.05700). ICML 2015.
 - [4] Ritter, H., Botev, A., Barber, D. [*A Scalable Laplace Approximation for Neural Networks*](https://openreview.net/forum?id=Skdvd2xAZ). ICLR 2018.
 - [5] Foong, A. Y., Li, Y., Hernández-Lobato, J. M., Turner, R. E. [*'In-Between' Uncertainty in Bayesian Neural Networks*](https://arxiv.org/abs/1906.11537). ICML UDL Workshop 2019.
-- [6] Khan, M. E., Immer, A., Abedi, E., Korzepa, M. [*Approximate Inference Turns Deep Networks into Gaussian Processes*](https://arxiv.org/abs/1906.01930). NeurIPS 2019.
+- [6] Khan, M. E., Immer, A., Abedi, E., Korzepa, M. [*Approximate Inference Turns Deep Networks into Gaussian Processes*](https://arxiv.org/abs/1906.01930). : 2019.
 - [7] Kristiadi, A., Hein, M., Hennig, P. [*Being Bayesian, Even Just a Bit, Fixes Overconfidence in ReLU Networks*](https://arxiv.org/abs/2002.10118). ICML 2020.
 - [8] Immer, A., Korzepa, M., Bauer, M. [*Improving predictions of Bayesian neural nets via local linearization*](https://arxiv.org/abs/2008.08400). AISTATS 2021.
 - [9] Sharma, A., Azizan, N., Pavone, M. [*Sketching Curvature for Efficient Out-of-Distribution Detection for Deep Neural Networks*](https://arxiv.org/abs/2102.12567). UAI 2021.

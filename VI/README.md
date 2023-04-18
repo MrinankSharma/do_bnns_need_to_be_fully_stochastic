@@ -1,4 +1,3 @@
-# NeurIPS 2022
 This codebase is a fork of the excellent Uncertainty-baselines repo. The additional code that was added is in the following files/directories:
 ```angular2html
 ### Library: written code that we later reuse
